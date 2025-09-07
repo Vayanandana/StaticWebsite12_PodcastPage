@@ -1,0 +1,374 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.podcasts-top-main-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 30px;
+    padding: 15px;
+}
+
+.Bottom-container {
+    color: #ffffff;
+    height: 70vh;
+
+}
+
+.fist-row {
+    padding: 5px;
+    padding-top: 20px;
+}
+
+.cards {
+    height: 170px;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    margin: 3px;
+    cursor: pointer;
+}
+
+.image {
+    height: 90px;
+    width: 120px;
+}
+
+.cards-main-heading {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+    padding: 5px;
+    padding-bottom: 2px;
+}
+
+.cards-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 15px;
+    padding-top: 2px;
+}
+
+/* Podcast Puri Jagannadh Page */
+.top-section-puriPage {
+    background-color: #151765;
+    height: 30vh;
+}
+
+.puri-image {
+    height: 110px;
+    width: 150px;
+}
+
+.puri-top-card {
+    padding: 15px;
+}
+
+.puri-text-container {
+    text-align: start;
+}
+
+.puri-text-main-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+    margin-top: 1px;
+}
+
+.puri-text-main-heading2 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.puri-text-main-heading3 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.bottom-section {
+    height: 70vh;
+}
+
+.bottom-puri-text-main-heading {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 14px;
+    margin-top: 1px;
+    font-weight: bold;
+}
+
+.bottom-puri-text-main-heading2 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 13px;
+
+}
+
+.bottom-puri-text-main-heading3 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #151765;
+    color: #ffffff;
+    padding: 4px;
+    width: 70px;
+    border-width: 0px;
+    border-radius: 10px;
+    margin: 10px;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+/* Podcast Tedx Talks Page */
+.top-section-tedxpage {
+    background-color: #151765;
+    height: 30vh;
+}
+
+.tedx-image {
+    height: 110px;
+    width: 150px;
+}
+
+.tedx-top-card {
+    padding: 15px;
+}
+
+.tedx-text-container {
+    text-align: start;
+}
+
+.tedx-text-main-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+    margin-top: 1px;
+}
+
+.tedx-text-main-heading2 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.tedx-text-main-heading3 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.bottom-section {
+    height: 70vh;
+}
+
+.bottom-tedx-text-main-heading {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 14px;
+    margin-top: 1px;
+    font-weight: bold;
+}
+
+.bottom-tedx-text-main-heading2 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 13px;
+
+}
+
+.bottom-tedx-text-main-heading3 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #151765;
+    color: #ffffff;
+    padding: 4px;
+    width: 70px;
+    border-width: 0px;
+    border-radius: 10px;
+    margin: 10px;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+/*   Sadhguru Podcast   */
+.top-section-sadhgurupage {
+    background-color: #151765;
+    height: 30vh;
+}
+
+.sadhguru-image {
+    height: 110px;
+    width: 150px;
+}
+
+.sadhguru-top-card {
+    padding: 15px;
+}
+
+.sadhguru-text-container {
+    text-align: start;
+}
+
+.sadhguru-text-main-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+    margin-top: 1px;
+}
+
+.sadhguru-text-main-heading2 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.sadhguru-text-main-heading3 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.bottom-section {
+    height: 70vh;
+}
+
+.bottom-sadhguru-text-main-heading {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 14px;
+    margin-top: 1px;
+    font-weight: bold;
+}
+
+.bottom-sadhguru-text-main-heading2 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 13px;
+
+}
+
+.bottom-sadhguru-text-main-heading3 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #151765;
+    color: #ffffff;
+    padding: 4px;
+    width: 70px;
+    border-width: 0px;
+    border-radius: 10px;
+    margin: 10px;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+/*   On Purpose  Podcast Page */
+.top-section-onPurposepage {
+    background-color: #151765;
+    height: 30vh;
+}
+
+.onPurpose-image {
+    height: 110px;
+    width: 150px;
+}
+
+.onPurpose-top-card {
+    padding: 15px;
+}
+
+.onPurpose-text-container {
+    text-align: start;
+}
+
+.onPurpose-text-main-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+    margin-top: 1px;
+}
+
+.onPurpose-text-main-heading2 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.onPurpose-text-main-heading3 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.bottom-section {
+    height: 70vh;
+}
+
+.bottom-onPurpose-text-main-heading {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 14px;
+    margin-top: 1px;
+    font-weight: bold;
+}
+
+.bottom-onPurpose-text-main-heading2 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 13px;
+
+}
+
+.bottom-onPurpose-text-main-heading3 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #151765;
+    color: #ffffff;
+    padding: 4px;
+    width: 70px;
+    border-width: 0px;
+    border-radius: 10px;
+    margin: 10px;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+}
